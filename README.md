@@ -9,3 +9,8 @@
 * requests
 * bs4
 * datetime
+* pandas
+* re
+* BeautifulSoup
+* collections
+* tqdm

@@ -1,18 +1,18 @@
 # HSE Career analysis
 
 #### Libraries:
-* vk
-* json
-* time
-* tqdm
-* requests
-* bs4
-* datetime
-* pandas
-* re
-* BeautifulSoup
-* collections
-* tqdm
+vk
+json
+time
+tqdm
+requests
+bs4
+datetime
+pandas
+re
+BeautifulSoup
+collections
+tqdm
 
 HSE_Career_website_scraper - выгружает все посты из новостной ленты сайта Центра развития карьеры ВШЭ, вычленяет посты с дайджестами вакансий для студентов и абитуриентов, разбирает эти дайджесты на составляющие и сохраняет в виде CSV-таблиц.
 

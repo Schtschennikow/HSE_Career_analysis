@@ -1,5 +1,4 @@
-# DataExpedition
-### Open data Big project
+# HSE Career analysis
 
 #### Libraries:
 * vk

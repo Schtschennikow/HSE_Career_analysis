@@ -75,5 +75,5 @@ with tqdm(total=len(co_list)) as pbar:
         
 f.close()
 
-with open('hh_dump0.json', 'w', encoding='utf-8') as f:
+with open('hh_dump.json', 'w', encoding='utf-8') as f:
     json.dump(fin, f, ensure_ascii=False)

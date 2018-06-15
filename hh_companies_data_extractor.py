@@ -56,13 +56,6 @@ extr(co_list, 65, 91, browser, 'chr')
 extr(co_list, 1040, 1072, browser, 'chr')
 extr(co_list, 0, 9, browser)
 
-browser = Chrome(executable_path='C:/Users/artuo/OneDrive/HSE/Programming/chromedriver.exe')
-co_list = []
-
-extr(co_list, 65, 91, browser, 'chr')
-extr(co_list, 1040, 1072, browser, 'chr')
-extr(co_list, 0, 9, browser)
-
 fin = {}
 f = open('hh_dump.tsv', 'w', encoding='utf-8')
 with tqdm(total=len(co_list)) as pbar:
